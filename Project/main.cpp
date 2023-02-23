@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cassert>
 
-
-
 struct character{
     char symbol;
     int xCoordinate;
@@ -274,6 +272,8 @@ int main() {
     if(game.gameStatus == -1){
         std::cout << "\033[31mYou have lost || You are a disgrace!\033[0m" << std::endl;
     }
+
+    std::cout << "This is a test for git" << std::endl;
 
     return 0;
 }

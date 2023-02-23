@@ -1,4 +1,4 @@
-/home/gerald/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/gerald/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja -G Ninja -S /home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project -B /home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug
+/home/gerald/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/gerald/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja -G Ninja -S /home/gerald/Documents/FH/PROGR/UE1_Oasencrawler/Project -B /home/gerald/Documents/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug
 -- The C compiler identification is GNU 11.3.0
 -- The CXX compiler identification is GNU 11.3.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug
+-- Build files have been written to: /home/gerald/Documents/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug
