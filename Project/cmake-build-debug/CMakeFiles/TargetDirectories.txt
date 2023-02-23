@@ -1,0 +1,3 @@
+/home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug/CMakeFiles/Project.dir
+/home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gerald/Desktop/FH/PROGR/UE1_Oasencrawler/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
